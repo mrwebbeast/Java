@@ -12,7 +12,7 @@ public class Solution {
         if (n % 2 == 0 && 2 <= n && n <= 5) {
             System.out.print("Iam Not Weird");
         } else if (n % 2 == 0 && 6 <= n && n <= 20) {
-            System.out.println("Weird");
+            System.out.println("Iam Weird");
         } else if (n % 2 == 0 && n > 20) {
             System.out.println("Not Weird");
         } else {
