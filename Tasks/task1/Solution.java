@@ -1,5 +1,6 @@
 package task1;
 
+//Competitive Programming by mrwebbeast
 import java.util.Scanner;
 
 public class Solution {
@@ -9,7 +10,7 @@ public class Solution {
         int n = scan.nextInt();
         scan.close();
         if (n % 2 == 0 && 2 <= n && n <= 5) {
-            System.out.print("Not Weird");
+            System.out.print("Iam Not Weird");
         } else if (n % 2 == 0 && 6 <= n && n <= 20) {
             System.out.println("Weird");
         } else if (n % 2 == 0 && n > 20) {
