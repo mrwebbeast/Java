@@ -7,10 +7,9 @@ public class MrWebBeast {
         double d = scan.nextDouble();
         scan.nextLine();
         String s = scan.nextLine();
-
         System.out.println(i + 4);
         System.out.println(d + d);
-        System.out.printf("MrWebBeast %s", s);
+        System.out.printf("Your String is %s", s);
         scan.close();
     }
 

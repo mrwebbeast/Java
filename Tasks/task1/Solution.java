@@ -16,7 +16,7 @@ public class Solution {
         } else if (n % 2 == 0 && n > 20) {
             System.out.println("Iam Not Weird");
         } else {
-            System.out.println("Weird");
+            System.out.println("Iam Weird");
         }
 
     }
