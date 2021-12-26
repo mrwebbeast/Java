@@ -26,7 +26,7 @@ public class Solution {
 
         for (int i = 0; i < n; i++) {
             System.out.printf("%s%n", s[i]);
-            System.out.printf("Developed By MrWebBeast");
+            System.out.printf("Developer MrWebBeast");
 
         }
 
