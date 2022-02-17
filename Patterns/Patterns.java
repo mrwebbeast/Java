@@ -16,7 +16,7 @@ public class Patterns {
         pattern8(size);
 
     }
-
+//you can use this method to print the pattern
     public static void pattern1(int n) {
         System.out.println("1) Pattern 1 (Box) is ");
         System.out.println("");
@@ -27,7 +27,7 @@ public class Patterns {
             System.out.println("");
         }
     }
-
+//you can run this method to print the pattern
     public static void pattern2(int n) {
         System.out.println("2) Pattern 2 (Right Side Piramide) is ");
         System.out.println("");
