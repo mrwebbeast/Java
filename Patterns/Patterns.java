@@ -27,7 +27,7 @@ public class Patterns {
             System.out.println("");
         }
     }
-//you can run this method to print the pattern
+//you can run this method to print the patterne
     public static void pattern2(int n) {
         System.out.println("2) Pattern 2 (Right Side Piramide) is ");
         System.out.println("");
