@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "task17.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MrWebBeast",
+            "request": "launch",
+            "mainClass": "MrWebBeast",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "task1.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(1)",
+            "request": "launch",
+            "mainClass": "task10.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(2)",
+            "request": "launch",
+            "mainClass": "task11.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(3)",
+            "request": "launch",
+            "mainClass": "task12.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(4)",
+            "request": "launch",
+            "mainClass": "task13.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(5)",
+            "request": "launch",
+            "mainClass": "task14.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(6)",
+            "request": "launch",
+            "mainClass": "task15.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(7)",
+            "request": "launch",
+            "mainClass": "task16.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(8)",
+            "request": "launch",
+            "mainClass": "task2.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(9)",
+            "request": "launch",
+            "mainClass": "task3.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(10)",
+            "request": "launch",
+            "mainClass": "task4.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(11)",
+            "request": "launch",
+            "mainClass": "task5.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(12)",
+            "request": "launch",
+            "mainClass": "task6.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(13)",
+            "request": "launch",
+            "mainClass": "task7.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(14)",
+            "request": "launch",
+            "mainClass": "task8.Solution",
+            "projectName": "Java_2a3efe18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution(15)",
+            "request": "launch",
+            "mainClass": "task9.Solution",
+            "projectName": "Java_2a3efe18"
+        }
+    ]
+}
