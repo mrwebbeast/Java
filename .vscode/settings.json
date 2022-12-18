@@ -1,8 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "task12",
-        "task 13",
         "Tasks",
-        "task13"
+        "Patterns"
     ]
 }

@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Patterns",
+      "request": "launch",
+      "mainClass": "Patterns",
+      "projectName": "Java_67471ec2"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution",
+      "request": "launch",
+      "mainClass": "task23.Solution",
+      "projectName": "Java_67471ec2"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution",
+      "request": "launch",
+      "mainClass": "Task22.Solution",
+      "projectName": "Java_67471ec2"
+    },
+    {
+      "type": "java",
+      "name": "Launch MrWebBeast",
+      "request": "launch",
+      "mainClass": "MrWebBeast",
+      "projectName": "Java_67471ec2"
+    },
+    {
+      "type": "java",
+      "name": "Launch Codechef",
+      "request": "launch",
+      "mainClass": "Task22.Codechef",
+      "projectName": "Java_67471ec2"
+    },
+    {
+      "type": "java",
       "name": "Launch Solution",
       "request": "launch",
       "mainClass": "task21.Solution",
